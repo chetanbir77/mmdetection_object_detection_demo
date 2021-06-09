@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>ReliantEnergy_80001367780-7.jpg</filename>
+	<path>/my-project-name/ReliantEnergy_80001367780-7.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Address</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>77</ymin>
+			<xmax>258</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
